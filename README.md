@@ -37,5 +37,4 @@ An OOP-based Cinema Ticket Booking and Billing System developed using C++.
 ## How to Run
 Compile and run `CinemaTicketBilling.cpp`.
 
-## Author
-Janhvi Singh
+
